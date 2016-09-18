@@ -1,2 +1,0 @@
-# LDPump
-Long Distance Pumping
