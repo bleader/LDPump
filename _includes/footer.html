@@ -1,0 +1,13 @@
+<footer class="">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <a href="mailto:{{ site.email }}"><span class="glyphicon glyphicon-envelope"></span> {{ site.email }}</a>
+        <span class="point"> · </span>
+        <a href="http://twitter.com/{{ site.twitter_username }}"> @{{ site.twitter_username }}</a>
+        <span class="point"> · </span>
+        <span><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></span>
+      </div>
+    </div>
+  </div>
+</footer>
