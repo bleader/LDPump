@@ -6,7 +6,7 @@
 title: Long Distance Pumping
 email: bleader@ratonland.org
 description: All about longboard Long Distance Pumping (LDP / LDPump).
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/LDPump" # the subpath of your site, e.g. /blog
 twitter_username: BleaderRaton
 
 # Build settings
