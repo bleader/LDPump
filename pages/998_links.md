@@ -9,10 +9,14 @@ permalink: /links/
 
 # Long Distance Skating
 
-* Reference in the pumping world: [pavedwave](http://www.pavedwave.org/)
+* Reference in the pumping world: [PavedWave](http://www.pavedwave.org/)
+* Most important: [PavedWave Forum](http://pavedwave.myfastforum.org/index.php)
 * (FR) [Dandy's Bitch](http://dandy.todaysbitch.org/)
 * (FR) [Dandystance](http://www.dandystance.com/)
 * Reddit [r/longboardingDISTANCE/](https://www.reddit.com/r/longboardingDISTANCE/) (not really active right now)
+* Stoked Skateboards Knowledge Base [LDP bushing set ups](https://stokedskateboards.com/knowledge-base/ldp-bushing-set-ups-explained.html)
+* Stoked Skateboards Knowledge Base [Modify and Improve Cast LDP Trucks](https://stokedskateboards.com/knowledge-base/modify-and-improve-cast-ldp-trucks.html)
+
 
 # Longboard
 
