@@ -9,6 +9,8 @@ description: All about longboard Long Distance Pumping (LDP / LDPump).
 baseurl: "/LDPump" # the subpath of your site, e.g. /blog
 url: "http://ldp.ratonland.org"
 twitter_username: BleaderRaton
+disqus_shortname: ldpump
+disqus_url: "http://bleader.github.io/LDPump/"
 
 # Build settings
 markdown: kramdown

@@ -1,22 +1,20 @@
+   <div class="sharing">
+     <a href="https://twitter.com/share?url={{ site.url}}{{ page.url }}">
+       <img width="24" height="24" src="{{site.baseurl}}/static/img/twitter_32.png">
+     </a>
+     <a href="http://www.facebook.com/sharer.php?u={{ site.url}}{{ page.url }}">
+       <img width="24" height="24" src="{{site.baseurl}}/static/img/facebook_32.png">
+     </a>
+     <a href="https://plus.google.com/share?url={{ site.url}}{{ page.url }}">
+       <img width="24" height="24" src="{{site.baseurl}}/static/img/gplus_32.png">
+     </a>
+     <a href="http://www.reddit.com/submit?url={{ site.url}}{{ page.url }}">
+       <img width="24" height="24" src="{{site.baseurl}}/static/img/reddit_32.png" alt="submit to reddit" border="0" />
+     </a>
+   </div>
 {% if page.comments %}
-    <!-- duoshuo.com javascript include code. -->    
-    {% if site.duoshuo_url %}
-      <div class="post-area post comment">
-        <div class="ds-thread" data-thread-key="{{ page.id }}" data-title="{{ page.title }}" data-url="{{ site.duoshuo_url }}{{ page.url }}"></div>
-      </div>
-	  <script type="text/javascript">
-		var duoshuoQuery = {short_name:"{{ site.duoshuo_shortname }}"};
-		(function() {
-		  var ds = document.createElement('script');
-		  ds.type = 'text/javascript';ds.async = true;
-		  ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-		  ds.charset = 'UTF-8';
-		  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ds);
-		})();
-	  </script>
-	{% endif %}
+    {% if site.disqus_url %}
     <!-- disqus.com javascript include code. -->
-	{% if site.disqus_url %}
     <div class="post-area post comment">
         <div id="disqus_thread"></div>
     </div>
@@ -33,4 +31,4 @@
 		})();
 	</script>
 	{% endif %}
-{% endif %}    
+{% endif %}
