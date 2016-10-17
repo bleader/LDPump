@@ -19,6 +19,10 @@ online. It is far from complete, and here is the current status:
 - [Links]({{site.baseurl}}/links): *done*
 - [About]({{site.baseurl}}/about): *done*
 
-The idea behind putting this online as is is that some of the questions I've been answering on reddit could have included a link to the Quick Start Guide or the FAQ, and I feel like it can already be useful like this. If people do find it usefull it will probably help me getting the motivation to work on the missing parts too.
+The idea behind putting this online as is is that some of the questions I've
+been answering on reddit could have included a link to the Quick Start Guide or
+the FAQ, and I feel like it can already be useful like this. If people do find
+it useful it will probably help me getting the motivation to work on the
+missing parts too.
 
 Hope you'll find it interesting and useful, cheers!
