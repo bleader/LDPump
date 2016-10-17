@@ -94,7 +94,7 @@ disciplines:
 ### How does it work?
 
 There are a lot of things that comes into play:
-- snake boards, ripstick, carver cruisers works mosly through the zigzag
+- snake boards, ripstick, carver cruisers works mostly through the zigzag
   motion, that is a part of it
 - the back truck trying to catch up, and its bushings putting the board back in
   place

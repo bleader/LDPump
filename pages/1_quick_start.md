@@ -24,7 +24,7 @@ There is a more in depth explanation in the
 
 # Why pumping
 
-It is not necesserally more efficient or faster than other techniques
+It is not necessarily more efficient or faster than other techniques
 (i.e: pushing, paddling), but it feels to me it is the most surfy, fun and
 enjoyable way to skate. It's up to you to make your own mind.
 
@@ -41,7 +41,7 @@ About anything can be pumped, but efficiency can always be improved, and the
 better the efficiency of your setup the longer you'll be able to go without
 pushing or getting too tired.
 
-It is worth mentionning that hanger width + wheelbase length will work like
+It is worth mentioning that hanger width + wheelbase length will work like
 bike gears, any of the two becoming smaller makes it *easier* to pump, and will
 reduce top speed, where wider trucks and longer wheelbase will require higher
 speed to start pumping but will allow an higher top speed.
@@ -58,7 +58,7 @@ speed to start pumping but will allow an higher top speed.
   165mm laying around
   * Most common are 5" / 125-129mm
   * Some people use 6" / 152mm
-  * Some spaceable can be configured inbetween
+  * Some spaceable can be configured in between
   * High angle trucks like paris or randal sitting at 50° are generally good
     for a testing setup
 - deck: something that can be topmounted with wedges, if you have large trucks
@@ -70,7 +70,7 @@ speed to start pumping but will allow an higher top speed.
 - Wedges:
   * Generally front sits between 55 and 60°, sometimes more, but that's less
     common
-  * Back is ofter as close to 0 as possible, higher angles will work, but will
+  * Back is often as close to 0 as possible, higher angles will work, but will
     probably provide less power from the back, which isn't a real issue,
     especially if you're just looking for a quick test
 - Hardware:
@@ -86,7 +86,7 @@ speed to start pumping but will allow an higher top speed.
   * grippy: once you'll know how to pump and get the movement right, you'll
     apply quite some force on the side of your back wheels, better have something
     that grip enough
-  * soft: for grip, and for confort once you start doing "longer" run, but
+  * soft: for grip, and for comfort once you start doing "longer" run, but
     that's when you get the basics down
 - Footstop
   * Not mandatory, but the pumping movement will likely get you sliding
@@ -120,7 +120,7 @@ get the grasp of it, you'll encounter the following:
 
 1. Not much effect
 2. Keep momentum a bit longer
-3. Keep momentun for something that feels really long
+3. Keep momentum for something that feels really long
 4. Build up momentum
 
 That technique is not the most efficient for longer distance: it get your front
