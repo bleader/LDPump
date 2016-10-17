@@ -20,7 +20,11 @@ muscle will be the limit. This also reach the same conclusion as the short
 answer, if nothing make you stop and your setup is efficient, the only limit is
 when you'll be exhausted.
 
-**TODO**: insert video here
+Here is a small video of me doing 1.4km / 0.87miles with 2 pushes. I recently
+went 6.5km / 3.72miles with a single push and had to stop because I had to head
+back home.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CIlcqyvS9HM" frameborder="0" allowfullscreen></iframe>
 
 ### Can you go uphill?
 
@@ -45,9 +49,11 @@ I would say that with a good setup, on flat ground and really putting
 everything you have in a *sprint*, you can reach about 30km/h (19mph), maybe a
 bit more.
 
-For me, with my current setup I generally tops about 27km/h (16.7mph).
+For me, with my current setup I generally tops about 27-28km/h (17.4mph), as
+shown below. Integrating GPS data is pain, so sorry for the start not at 0, but
+the top speed should be accurate.
 
-**TODO**: test and update values, add video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lHzsro3vutc" frameborder="0" allowfullscreen></iframe>
 
 ### What average can I expect?
 
