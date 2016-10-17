@@ -16,7 +16,7 @@ permalink: /links/
 * Reddit [r/longboardingDISTANCE/](https://www.reddit.com/r/longboardingDISTANCE/) (not really active right now)
 * Stoked Skateboards Knowledge Base [LDP bushing set ups](https://stokedskateboards.com/knowledge-base/ldp-bushing-set-ups-explained.html)
 * Stoked Skateboards Knowledge Base [Modify and Improve Cast LDP Trucks](https://stokedskateboards.com/knowledge-base/modify-and-improve-cast-ldp-trucks.html)
-
+* Vlad Popov's [pumping page](http://vladpopov.com/slalomskate/skate/pump.html)
 
 # Longboard
 
